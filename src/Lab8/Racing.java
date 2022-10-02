@@ -1,5 +1,9 @@
 package Lab8;
 
+import Lab8.Objects.Lion;
+import Lab8.Objects.Snake;
+import Lab8.Objects.Tiger;
+
 public class Racing {
     public static void main(String[] args) {
         Lion lion = new Lion("Lion");

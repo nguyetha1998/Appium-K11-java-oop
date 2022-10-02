@@ -1,5 +1,9 @@
 package Lab8;
 
+import Lab8.Objects.ContractEmployee;
+import Lab8.Objects.Employee;
+import Lab8.Objects.FullTimeEmployee;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;

@@ -1,13 +1,13 @@
-package Lab8;
+package Lab8.Objects;
 
 import java.security.SecureRandom;
 
-public class Lion extends Animals {
+public class Tiger extends Animals{
 
-    public Lion() {
+    public Tiger() {
     }
 
-    public Lion(String name){
+    public Tiger(String name){
         super.setSpeed(new SecureRandom().nextInt(50));
         super.setName(name);
     }

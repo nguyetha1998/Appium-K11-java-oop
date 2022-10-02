@@ -1,4 +1,4 @@
-package Lab8;
+package Lab8.Objects;
 
 import java.security.SecureRandom;
 
